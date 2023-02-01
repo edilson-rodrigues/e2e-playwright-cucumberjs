@@ -6,3 +6,6 @@ node_modules/
 # playwright
 screenshot.png
 videos
+
+#vscode
+.vscode
