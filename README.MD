@@ -7,8 +7,8 @@ POC cucumberjs e playwright - test e2e
 ## download e doc
 
 download e doc
-node v18.13.0 -> https://nodejs.org/en/download/
-yarn 1.22.19 -> https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable
+* node v18.13.0 -> https://nodejs.org/en/download/
+* yarn 1.22.19 -> https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable
 
 # executar
 
